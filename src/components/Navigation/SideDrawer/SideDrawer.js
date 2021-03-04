@@ -8,7 +8,7 @@ const sideDrawer = (props)=> {
     return(
 
         <div className = {classes.SideDrawer}>
-            <div className ={classes.Logo}>
+            <div className={classes.Logo}>
             <Logo/>
             </div>
 
